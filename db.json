@@ -1,0 +1,9 @@
+{
+  "users": [
+    { "id": 1, "username": "mkrajewsky", "email": "mkrajewsky@git", "name": "Michal Krajewsky", "bio":"Full Stack maker & UI / UX Designer , love hip hop music Author of Building UI.", "image": "https://gravatar.com/avatar/b07156f66fc688197314b248d7d5c647.png?s=128&d=mp&w=32&q=75", "bookmarks": [4,2,3,1], "enrolled": [1,2] },
+    { "id": 2, "username": "ptreweela1", "email": "ptreweela1@aboutads.info", "name": "Perla Treweela", "bio":"Full Stack maker & UI / UX Designer , love hip hop music Author of Building UI.", "image": "https://gravatar.com/avatar/f6050f4cefb175919148e5dd150cafcf.png?s=128&d=mp&w=32&q=75", "bookmarks": [], "enrolled": [1,3] },
+    { "id": 3, "username": "hwoolfoot2", "email": "hwoolfoot2@wp.com", "name": "Hinda Woolfoot", "bio":"Full Stack maker & UI / UX Designer , love hip hop music Author of Building UI.", "image": "https://d2eip9sf3oo6c2.cloudfront.net/instructors/avatars/000/000/179/medium/LargeKyleBW.jpg", "bookmarks": [4,2,3,1], "enrolled": [1,3] },
+    { "id": 4, "username": "dstandall3", "email": "dstandall3@sciencedirect.com", "name": "Dorine Standall", "bio":"Full Stack maker & UI / UX Designer , love hip hop music Author of Building UI.", "image": "https://gravatar.com/avatar/5d8c87607f46870569cec9e437e79b5b.png?s=128&d=mp&w=32&q=75", "bookmarks": [1,2], "enrolled": [2,3] },
+    { "id": 5, "username": "aminchindon4", "email": "aminchindon4@amazon.co.jp", "name": "Alyson Minchindon", "bio":"Full Stack maker & UI / UX Designer , love hip hop music Author of Building UI.", "image": "https://gravatar.com/avatar/b07156f66fc688197314b248d7d5c647.png?s=128&d=mp&w=32&q=75", "bookmarks": [4,2,3,1], "enrolled": [1,3] }
+  ]
+}
